@@ -16,7 +16,7 @@ References:
 
 Screenshot of the website:
 
-![Alt text] (./develop/screenshot.png)
+![Alt text](./assets/screenshot.png)
 
 License:
 
