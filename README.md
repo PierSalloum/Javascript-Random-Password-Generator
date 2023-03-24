@@ -13,6 +13,8 @@ References:
 -https://www.geeksforgeeks.org/how-to-generate-a-random-password-using-javascript/
 -https://www.w3schools.com/jsref/jsref_random.asp
 -https://morioh.com/p/a155d75129d4
+-https://codeburst.io/what-are-three-dots-in-javascript-6f09476b03e1
+-https://medium.com/techtofreedom/3-uses-of-the-three-dots-in-javascript-8d6b83f179ce 
 
 Screenshot of the website:
 
