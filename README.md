@@ -6,7 +6,7 @@ Description: Simple random passsword generator made with javascript. It makes a 
 How to Use: There is no installation required. You can access the project using the provided link, or you can copy this repository to better understand the development of the website.
 To use, enter the desired length for your password, and answer the following prompts based on your needs. After going through the prompts, the password will be printed in the given box for the user to copy.
 
--Website link: 
+-Website link: https://piersalloum.github.io/Javascript-Random-Password-Generator/
 
 References:
 -https://stackoverflow.com/questions/1497481/javascript-password-generator
